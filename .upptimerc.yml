@@ -38,9 +38,11 @@ status-website:
   introMessage: Monitor [roundup issue tracker](https://www.roundup-tracker.org) assets using [**upptime runing on github**](https://github.com/koj-co/upptime)
   navbar:
     - title: Status
-      href: /
+      href: /RoundupAssets
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Roundup
+      href: https://www.roundup-tracker.org/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
