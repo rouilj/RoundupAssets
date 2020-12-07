@@ -15,7 +15,7 @@ sites:
   - name: Roundup-users mailing list
     url: https://sourceforge.net/p/roundup/mailman/roundup-users/
   - name: Fossil based IRC Log
-    url: https://rouilj.dynamic-dns.net/fossil/roundup_irc_logs/draft1/doc/trunk/log/roundup/
+    url: https://rouilj.dynamic-dns.net/fossil/roundup_irc_logs/doc/trunk/log/roundup/
   - name: GitHub based IRC Log
     url: https://github.com/rouilj/test 
   - name: Mercurial Repo (sourceforge)
