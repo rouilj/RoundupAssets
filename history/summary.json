@@ -94,19 +94,19 @@
     "url": "https://rouilj.dynamic-dns.net/fossil/roundup_irc_logs/draft1/doc/trunk/log/roundup/",
     "icon": "https://favicons.githubusercontent.com/rouilj.dynamic-dns.net",
     "slug": "fossil-based-irc-log",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 465,
-    "timeDay": 465,
-    "timeWeek": 465,
-    "timeMonth": 465,
-    "timeYear": 465,
+    "status": "up",
+    "uptime": "96.63%",
+    "uptimeDay": "96.63%",
+    "uptimeWeek": "96.63%",
+    "uptimeMonth": "96.63%",
+    "uptimeYear": "96.63%",
+    "time": 447,
+    "timeDay": 447,
+    "timeWeek": 447,
+    "timeMonth": 447,
+    "timeYear": 447,
     "dailyMinutesDown": {
-      "2020-12-07": 0
+      "2020-12-07": 21
     }
   },
   {
