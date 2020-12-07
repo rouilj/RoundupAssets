@@ -22,7 +22,10 @@ sites:
     url: https://travis-ci.org/github/roundup-tracker/roundup
   - name: CodeCov
     url: https://app.codecov.io/gh/roundup-tracker/roundup/
-
+  - name: Fossil based IRC Log
+    url: https://rouilj.dynamic-dns.net/fossil/roundup_irc_logs/draft1/doc/trunk/log/roundup/
+  - name: GitHub based IRC Log
+    url: https://github.com/rouilj/test 
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
