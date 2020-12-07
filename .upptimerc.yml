@@ -6,26 +6,26 @@ repo: RoundupAssets # Your Github repository name
 sites:
   - name: Main
     url: https://www.roundup-tracker.org
-  - name: Wiki
-    url: https://wiki.roundup-tracker.org
-  - name: Mercurial Repo (sourceforge)
-    url: https://sourceforge.net/p/roundup/code/ci/tip/tree/CHANGES.txt
   - name: Tracker
     url: https://issues.roundup-tracker.org/
+  - name: Wiki
+    url: https://wiki.roundup-tracker.org
   - name: Distribution (pypi)
     url: https://pypi.org/project/roundup/
   - name: Roundup-users mailing list
     url: https://sourceforge.net/p/roundup/mailman/roundup-users/
+  - name: Fossil based IRC Log
+    url: https://rouilj.dynamic-dns.net/fossil/roundup_irc_logs/draft1/doc/trunk/log/roundup/
+  - name: GitHub based IRC Log
+    url: https://github.com/rouilj/test 
+  - name: Mercurial Repo (sourceforge)
+    url: https://sourceforge.net/p/roundup/code/ci/tip/tree/CHANGES.txt
   - name: Unofficial Github Mirror
     url: https://github.com/roundup-tracker/roundup
   - name: Travis CI
     url: https://travis-ci.org/github/roundup-tracker/roundup
   - name: CodeCov
     url: https://app.codecov.io/gh/roundup-tracker/roundup/
-  - name: Fossil based IRC Log
-    url: https://rouilj.dynamic-dns.net/fossil/roundup_irc_logs/draft1/doc/trunk/log/roundup/
-  - name: GitHub based IRC Log
-    url: https://github.com/rouilj/test 
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
