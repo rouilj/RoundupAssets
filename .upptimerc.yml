@@ -16,6 +16,13 @@ sites:
     url: https://pypi.org/project/roundup/
   - name: Roundup-users mailing list
     url: https://sourceforge.net/p/roundup/mailman/roundup-users/
+  - name: Unofficial Github Mirror
+    url: https://github.com/roundup-tracker/roundup
+  - name: Travis CI
+    url: https://travis-ci.org/github/roundup-tracker/roundup
+  - name: CodeCov
+    url: https://app.codecov.io/gh/roundup-tracker/roundup/
+
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
