@@ -1,29 +1,31 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your Github repository name
+owner: rouilj # Your GitHub username
+repo: RoundupAssets # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Main
+    url: https://www.roundup-tracker.org
+  - name: Wiki
+    url: https://wiki.roundup-tracker.org
+  - name: Mercurial Repo (sourceforge)
+    url: https://sourceforge.net/p/roundup/code/ci/tip/tree/CHANGES.txt
+  - name: Tracker
+    url: https://issues.roundup-tracker.org/
+  - name: Distribution (pypi)
+    url: https://pypi.org/project/roundup/
+  - name: Roundup-users mailing list
+    url: https://sourceforge.net/p/roundup/mailman/roundup-users/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  baseUrl: /RoundupAssets
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  name: RoundupAssets
+  introTitle: "Status of various ssets used to manage/develop the roundup issue tracker."
+  introMessage: Monitor [roundup issue tracker](https://www.roundup-tracker.org) assets using [**upptime runing on github**](https://github.com/koj-co/upptime)
   navbar:
     - title: Status
       href: /
