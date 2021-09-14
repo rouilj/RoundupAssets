@@ -236,17 +236,17 @@
     "url": "https://app.codecov.io/gh/roundup-tracker/roundup/",
     "icon": "https://favicons.githubusercontent.com/app.codecov.io",
     "slug": "code-cov",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 287,
-    "timeWeek": 165,
-    "timeMonth": 177,
-    "timeYear": 315,
+    "time": 314,
+    "timeDay": 225,
+    "timeWeek": 158,
+    "timeMonth": 174,
+    "timeYear": 314,
     "dailyMinutesDown": {}
   }
 ]
