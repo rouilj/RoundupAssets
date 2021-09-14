@@ -236,7 +236,7 @@
     "url": "https://app.codecov.io/gh/roundup-tracker/roundup/",
     "icon": "https://favicons.githubusercontent.com/app.codecov.io",
     "slug": "code-cov",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
