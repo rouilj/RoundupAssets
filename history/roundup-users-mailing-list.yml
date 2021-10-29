@@ -1,7 +1,7 @@
 url: https://sourceforge.net/p/roundup/mailman/roundup-users/
-status: down
-code: 500
-responseTime: 560
-lastUpdated: 2021-10-29T21:50:58.487Z
+status: up
+code: 200
+responseTime: 623
+lastUpdated: 2021-10-29T22:05:08.996Z
 startTime: Mon Dec 07 2020 01:51:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
