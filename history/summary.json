@@ -198,18 +198,20 @@
     "url": "https://github.com/roundup-tracker/roundup",
     "icon": "https://favicons.githubusercontent.com/github.com",
     "slug": "unofficial-github-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 316,
-    "timeDay": 336,
-    "timeWeek": 263,
-    "timeMonth": 318,
+    "timeDay": 233,
+    "timeWeek": 249,
+    "timeMonth": 312,
     "timeYear": 316,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-05": 0
+    }
   },
   {
     "name": "Travis CI",
