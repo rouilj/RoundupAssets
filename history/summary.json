@@ -156,10 +156,10 @@
     "url": "https://github.com/rouilj/test",
     "icon": "https://favicons.githubusercontent.com/github.com",
     "slug": "git-hub-based-irc-log",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 394,
@@ -167,7 +167,9 @@
     "timeWeek": 298,
     "timeMonth": 344,
     "timeYear": 394,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-05": 1
+    }
   },
   {
     "name": "Mercurial Repo (sourceforge)",
@@ -198,9 +200,9 @@
     "url": "https://github.com/roundup-tracker/roundup",
     "icon": "https://favicons.githubusercontent.com/github.com",
     "slug": "unofficial-github-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.75%",
+    "uptimeDay": "98.72%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
