@@ -198,19 +198,19 @@
     "url": "https://github.com/roundup-tracker/roundup",
     "icon": "https://favicons.githubusercontent.com/github.com",
     "slug": "unofficial-github-mirror",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 316,
-    "timeDay": 233,
-    "timeWeek": 249,
+    "timeDay": 259,
+    "timeWeek": 255,
     "timeMonth": 312,
     "timeYear": 316,
     "dailyMinutesDown": {
-      "2021-12-05": 0
+      "2021-12-05": 18
     }
   },
   {
