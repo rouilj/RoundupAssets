@@ -156,19 +156,19 @@
     "url": "https://github.com/rouilj/test",
     "icon": "https://favicons.githubusercontent.com/github.com",
     "slug": "git-hub-based-irc-log",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 394,
-    "timeDay": 424,
-    "timeWeek": 298,
-    "timeMonth": 344,
+    "timeDay": 366,
+    "timeWeek": 299,
+    "timeMonth": 342,
     "timeYear": 394,
     "dailyMinutesDown": {
-      "2021-12-05": 1
+      "2021-12-05": 18
     }
   },
   {
@@ -200,19 +200,19 @@
     "url": "https://github.com/roundup-tracker/roundup",
     "icon": "https://favicons.githubusercontent.com/github.com",
     "slug": "unofficial-github-mirror",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.72%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 316,
-    "timeDay": 259,
-    "timeWeek": 255,
-    "timeMonth": 312,
+    "timeDay": 263,
+    "timeWeek": 257,
+    "timeMonth": 311,
     "timeYear": 316,
     "dailyMinutesDown": {
-      "2021-12-05": 18
+      "2021-12-05": 35
     }
   },
   {
