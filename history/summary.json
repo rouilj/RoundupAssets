@@ -5,10 +5,10 @@
     "icon": "https://favicons.githubusercontent.com/www.roundup-tracker.org",
     "slug": "main",
     "status": "down",
-    "uptime": "96.91%",
-    "uptimeDay": "99.97%",
+    "uptime": "96.90%",
+    "uptimeDay": "98.74%",
     "uptimeWeek": "68.27%",
-    "uptimeMonth": "57.76%",
+    "uptimeMonth": "57.72%",
     "uptimeYear": "96.19%",
     "time": 785,
     "timeDay": 683,
@@ -16,7 +16,7 @@
     "timeMonth": 648,
     "timeYear": 818,
     "dailyMinutesDown": {
-      "2022-03-06": 0,
+      "2022-03-06": 18,
       "2022-03-01": 971,
       "2022-02-28": 1440,
       "2022-02-27": 1440,
@@ -164,18 +164,20 @@
     "url": "https://sourceforge.net/p/roundup/code/ci/tip/tree/CHANGES.txt",
     "icon": "https://favicons.githubusercontent.com/sourceforge.net",
     "slug": "mercurial-repo-sourceforge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 774,
+    "time": 773,
     "timeDay": 407,
     "timeWeek": 1877,
     "timeMonth": 1153,
     "timeYear": 680,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-06": 0
+    }
   },
   {
     "name": "Unofficial Github Mirror",
