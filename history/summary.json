@@ -6,9 +6,9 @@
     "slug": "main",
     "status": "up",
     "uptime": "96.92%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "57.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "57.69%",
     "uptimeYear": "96.19%",
     "time": 786,
     "timeDay": 557,
@@ -16,7 +16,6 @@
     "timeMonth": 718,
     "timeYear": 819,
     "dailyMinutesDown": {
-      "2022-03-09": 10,
       "2022-03-06": 31,
       "2022-03-01": 971,
       "2022-02-28": 1440,
@@ -61,9 +60,9 @@
     "url": "https://wiki.roundup-tracker.org",
     "icon": "https://favicons.githubusercontent.com/wiki.roundup-tracker.org",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -72,7 +71,9 @@
     "timeWeek": 1113,
     "timeMonth": 894,
     "timeYear": 987,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-09": 0
+    }
   },
   {
     "name": "Distribution (pypi)",
@@ -120,7 +121,7 @@
     "icon": "https://favicons.githubusercontent.com/rouilj.dynamic-dns.net",
     "slug": "fossil-based-irc-log",
     "status": "up",
-    "uptime": "95.27%",
+    "uptime": "95.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -129,7 +130,7 @@
     "timeDay": 261,
     "timeWeek": 633,
     "timeMonth": 602,
-    "timeYear": 767,
+    "timeYear": 768,
     "dailyMinutesDown": {
       "2022-01-26": 511,
       "2022-01-25": 243,
