@@ -5,7 +5,7 @@
     "icon": "https://favicons.githubusercontent.com/www.roundup-tracker.org",
     "slug": "main",
     "status": "up",
-    "uptime": "97.17%",
+    "uptime": "97.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -60,9 +60,9 @@
     "url": "https://wiki.roundup-tracker.org",
     "icon": "https://favicons.githubusercontent.com/wiki.roundup-tracker.org",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 869,
     "timeMonth": 881,
     "timeYear": 971,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-19": 0
+    }
   },
   {
     "name": "Distribution (pypi)",
