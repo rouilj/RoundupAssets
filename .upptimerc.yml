@@ -26,7 +26,7 @@ sites:
     url: https://travis-ci.com/github/roundup-tracker/roundup
   - name: CodeCov
     url: https://app.codecov.io/gh/roundup-tracker/roundup/
-  - Coveralls
+  - name: Coveralls
     url: https://coveralls.io/github/roundup-tracker/roundup
 
 status-website:
