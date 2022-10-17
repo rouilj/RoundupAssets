@@ -26,6 +26,8 @@ sites:
     url: https://travis-ci.com/github/roundup-tracker/roundup
   - name: CodeCov
     url: https://app.codecov.io/gh/roundup-tracker/roundup/
+  - Coveralls
+    url: https://coveralls.io/github/roundup-tracker/roundup
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
