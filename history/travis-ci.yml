@@ -1,7 +1,7 @@
 url: https://travis-ci.com/github/roundup-tracker/roundup
-status: up
-code: 200
-responseTime: 895
-lastUpdated: 2022-11-20T23:23:00.776Z
+status: down
+code: 404
+responseTime: 12790
+lastUpdated: 2022-11-21T16:17:32.429Z
 startTime: Mon Dec 07 2020 02:08:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
