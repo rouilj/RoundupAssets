@@ -138,8 +138,8 @@
     "uptimeMonth": "98.91%",
     "uptimeYear": "98.70%",
     "time": 667,
-    "timeDay": 444,
-    "timeWeek": 574,
+    "timeDay": 308,
+    "timeWeek": 580,
     "timeMonth": 534,
     "timeYear": 592,
     "dailyMinutesDown": {
@@ -257,12 +257,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 351,
     "timeDay": 386,
     "timeWeek": 429,
     "timeMonth": 390,
-    "timeYear": 368,
+    "timeYear": 369,
     "dailyMinutesDown": {
       "2021-12-27": 216
     }
@@ -321,10 +321,10 @@
     "url": "https://coveralls.io/github/roundup-tracker/roundup",
     "icon": "https://icons.duckduckgo.com/ip3/coveralls.io.ico",
     "slug": "coveralls",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.85%",
     "time": 361,
@@ -333,6 +333,7 @@
     "timeMonth": 413,
     "timeYear": 361,
     "dailyMinutesDown": {
+      "2022-12-05": 1,
       "2022-11-19": 104,
       "2022-11-18": 4
     }
