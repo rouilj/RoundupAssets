@@ -36,8 +36,8 @@ status-website:
   baseUrl: /RoundupAssets
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: RoundupAssets
-  introTitle: "Status of various assets used to manage/develop the roundup issue tracker."
-  introMessage: Monitor [roundup issue tracker](https://www.roundup-tracker.org) assets using [**upptime running on github**](https://github.com/koj-co/upptime)
+  introTitle: "Status of various assets used to manage/develop the Roundup Issue Tracker."
+  introMessage: Monitor [Roundup Issue Tracker](https://www.roundup-tracker.org) assets using [**upptime running on github**](https://github.com/koj-co/upptime)
   navbar:
     - title: Status
       href: /RoundupAssets
