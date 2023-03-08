@@ -25,9 +25,9 @@
     "url": "https://issues.roundup-tracker.org/",
     "icon": "https://icons.duckduckgo.com/ip3/issues.roundup-tracker.org.ico",
     "slug": "tracker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 1333,
     "timeMonth": 1208,
     "timeYear": 1156,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-08": 0
+    }
   },
   {
     "name": "Wiki",
@@ -112,13 +114,13 @@
     "status": "up",
     "uptime": "99.54%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.52%",
-    "uptimeMonth": "97.43%",
+    "uptimeWeek": "94.81%",
+    "uptimeMonth": "97.50%",
     "uptimeYear": "98.97%",
     "time": 569,
     "timeDay": 421,
-    "timeWeek": 691,
-    "timeMonth": 599,
+    "timeWeek": 682,
+    "timeMonth": 597,
     "timeYear": 580,
     "dailyMinutesDown": {
       "2023-03-05": 118,
