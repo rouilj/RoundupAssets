@@ -68,18 +68,20 @@
     "url": "https://pypi.org/project/roundup/",
     "icon": "https://icons.duckduckgo.com/ip3/pypi.org.ico",
     "slug": "distribution-pypi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 56,
-    "timeDay": 68,
-    "timeWeek": 47,
-    "timeMonth": 54,
+    "timeDay": 50,
+    "timeWeek": 45,
+    "timeMonth": 53,
     "timeYear": 54,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-25": 0
+    }
   },
   {
     "name": "Roundup-users mailing list",
@@ -112,17 +114,17 @@
     "slug": "fossil-based-irc-log",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "97.84%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "98.07%",
-    "uptimeYear": "99.30%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "98.15%",
+    "uptimeYear": "99.28%",
     "time": 594,
     "timeDay": 677,
     "timeWeek": 866,
-    "timeMonth": 747,
+    "timeMonth": 750,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2023-04-25": 32,
+      "2023-04-25": 21,
       "2023-04-21": 22,
       "2023-04-20": 30,
       "2023-04-18": 30,
@@ -185,7 +187,8 @@
       "2022-12-02": 105,
       "2022-11-24": 110,
       "2022-11-18": 86,
-      "2022-11-14": 44
+      "2022-11-14": 44,
+      "2022-11-11": 83
     }
   },
   {
