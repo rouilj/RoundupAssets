@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.roundup-tracker.org.ico",
     "slug": "main",
     "status": "up",
-    "uptime": "98.38%",
+    "uptime": "98.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -111,16 +111,16 @@
     "url": "https://rouilj.dynamic-dns.net/fossil/roundup_irc_logs/doc/trunk/log/roundup/",
     "icon": "https://icons.duckduckgo.com/ip3/rouilj.dynamic-dns.net.ico",
     "slug": "fossil-based-irc-log",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "98.85%",
+    "uptimeDay": "98.83%",
     "uptimeWeek": "98.94%",
-    "uptimeMonth": "98.58%",
+    "uptimeMonth": "98.65%",
     "uptimeYear": "99.32%",
     "time": 596,
-    "timeDay": 485,
-    "timeWeek": 568,
-    "timeMonth": 682,
+    "timeDay": 466,
+    "timeWeek": 560,
+    "timeMonth": 674,
     "timeYear": 604,
     "dailyMinutesDown": {
       "2023-05-04": 15,
@@ -189,7 +189,7 @@
       "2022-12-18": 39,
       "2022-12-12": 17,
       "2022-12-06": 133,
-      "2022-12-02": 105
+      "2022-12-02": 85
     }
   },
   {
