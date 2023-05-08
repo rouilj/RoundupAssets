@@ -113,17 +113,17 @@
     "slug": "fossil-based-irc-log",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "97.87%",
-    "uptimeWeek": "95.33%",
-    "uptimeMonth": "98.38%",
-    "uptimeYear": "99.28%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "95.44%",
+    "uptimeMonth": "98.40%",
+    "uptimeYear": "99.27%",
     "time": 602,
-    "timeDay": 717,
+    "timeDay": 701,
     "timeWeek": 696,
     "timeMonth": 704,
     "timeYear": 609,
     "dailyMinutesDown": {
-      "2023-05-07": 31,
+      "2023-05-07": 20,
       "2023-05-05": 15,
       "2023-05-04": 407,
       "2023-05-03": 1,
@@ -190,7 +190,7 @@
       "2022-12-19": 25,
       "2022-12-18": 39,
       "2022-12-12": 17,
-      "2022-12-06": 16
+      "2022-12-06": 80
     }
   },
   {
