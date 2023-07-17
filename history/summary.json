@@ -12,7 +12,7 @@
     "uptimeYear": "99.98%",
     "time": 776,
     "timeDay": 579,
-    "timeWeek": 651,
+    "timeWeek": 675,
     "timeMonth": 742,
     "timeYear": 747,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
     "uptimeYear": "99.99%",
     "time": 1181,
     "timeDay": 921,
-    "timeWeek": 1185,
+    "timeWeek": 1197,
     "timeMonth": 1256,
     "timeYear": 1203,
     "dailyMinutesDown": {
@@ -52,15 +52,14 @@
     "uptimeYear": "99.77%",
     "time": 1030,
     "timeDay": 550,
-    "timeWeek": 882,
+    "timeWeek": 804,
     "timeMonth": 1165,
     "timeYear": 1041,
     "dailyMinutesDown": {
       "2023-05-22": 479,
       "2023-05-21": 545,
       "2022-07-19": 58,
-      "2022-07-18": 107,
-      "2022-07-17": 32
+      "2022-07-18": 107
     }
   },
   {
@@ -76,7 +75,7 @@
     "uptimeYear": "100.00%",
     "time": 54,
     "timeDay": 23,
-    "timeWeek": 69,
+    "timeWeek": 71,
     "timeMonth": 59,
     "timeYear": 52,
     "dailyMinutesDown": {
@@ -96,7 +95,7 @@
     "uptimeYear": "99.99%",
     "time": 552,
     "timeDay": 368,
-    "timeWeek": 384,
+    "timeWeek": 388,
     "timeMonth": 417,
     "timeYear": 496,
     "dailyMinutesDown": {
@@ -110,17 +109,17 @@
     "slug": "fossil-based-irc-log",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "97.25%",
-    "uptimeWeek": "90.62%",
-    "uptimeMonth": "94.98%",
-    "uptimeYear": "98.95%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "91.01%",
+    "uptimeMonth": "95.00%",
+    "uptimeYear": "98.94%",
     "time": 612,
     "timeDay": 604,
-    "timeWeek": 578,
+    "timeWeek": 546,
     "timeMonth": 685,
-    "timeYear": 623,
+    "timeYear": 624,
     "dailyMinutesDown": {
-      "2023-07-16": 40,
+      "2023-07-16": 30,
       "2023-07-15": 30,
       "2023-07-13": 108,
       "2023-07-12": 334,
@@ -183,7 +182,8 @@
       "2023-04-01": 78,
       "2023-03-31": 55,
       "2023-03-30": 44,
-      "2023-03-29": 32
+      "2023-03-29": 32,
+      "2023-03-28": 15
     }
   },
   {
@@ -199,7 +199,7 @@
     "uptimeYear": "93.26%",
     "time": 485,
     "timeDay": 337,
-    "timeWeek": 470,
+    "timeWeek": 439,
     "timeMonth": 514,
     "timeYear": 507,
     "dailyMinutesDown": {
@@ -249,7 +249,7 @@
     "timeDay": 431,
     "timeWeek": 411,
     "timeMonth": 515,
-    "timeYear": 764,
+    "timeYear": 765,
     "dailyMinutesDown": {
       "2023-07-14": 15,
       "2023-07-13": 10,
@@ -272,7 +272,7 @@
     "uptimeYear": "93.27%",
     "time": 372,
     "timeDay": 318,
-    "timeWeek": 343,
+    "timeWeek": 332,
     "timeMonth": 360,
     "timeYear": 378,
     "dailyMinutesDown": {
@@ -318,7 +318,7 @@
     "uptimeYear": "99.91%",
     "time": 437,
     "timeDay": 143,
-    "timeWeek": 255,
+    "timeWeek": 227,
     "timeMonth": 285,
     "timeYear": 442,
     "dailyMinutesDown": {
@@ -340,9 +340,9 @@
     "uptimeYear": "99.96%",
     "time": 227,
     "timeDay": 115,
-    "timeWeek": 174,
+    "timeWeek": 167,
     "timeMonth": 215,
-    "timeYear": 244,
+    "timeYear": 245,
     "dailyMinutesDown": {
       "2023-01-31": 59,
       "2022-12-11": 64,
