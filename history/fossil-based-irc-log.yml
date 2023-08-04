@@ -1,7 +1,7 @@
 url: https://rouilj.dynamic-dns.net/fossil/roundup_irc_logs/doc/trunk/log/roundup/
-status: down
-code: 503
-responseTime: 288
-lastUpdated: 2023-08-04T23:38:12.861Z
+status: up
+code: 200
+responseTime: 987
+lastUpdated: 2023-08-04T23:48:56.510Z
 startTime: Mon Dec 07 2020 02:16:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
