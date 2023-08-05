@@ -45,12 +45,12 @@
     "status": "up",
     "uptime": "99.57%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.33%",
+    "uptimeWeek": "99.50%",
     "uptimeMonth": "99.31%",
     "uptimeYear": "99.75%",
     "time": 1003,
     "timeDay": 1031,
-    "timeWeek": 1065,
+    "timeWeek": 1083,
     "timeMonth": 879,
     "timeYear": 1011,
     "dailyMinutesDown": {
@@ -106,10 +106,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/rouilj.dynamic-dns.net.ico",
     "slug": "fossil-based-irc-log",
     "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "97.85%",
-    "uptimeMonth": "94.32%",
+    "uptime": "99.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.96%",
+    "uptimeMonth": "94.35%",
     "uptimeYear": "98.79%",
     "time": 632,
     "timeDay": 543,
@@ -117,7 +117,6 @@
     "timeMonth": 706,
     "timeYear": 639,
     "dailyMinutesDown": {
-      "2023-08-04": 11,
       "2023-08-03": 30,
       "2023-08-02": 87,
       "2023-08-01": 58,
@@ -182,7 +181,8 @@
       "2023-04-27": 52,
       "2023-04-26": 30,
       "2023-04-25": 21,
-      "2023-04-21": 22
+      "2023-04-21": 22,
+      "2023-04-20": 30
     }
   },
   {
