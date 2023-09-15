@@ -109,9 +109,9 @@
     "slug": "fossil-based-irc-log",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "98.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "98.16%",
     "uptimeYear": "98.39%",
     "time": 641,
     "timeDay": 635,
@@ -119,7 +119,6 @@
     "timeMonth": 715,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2023-09-14": 11,
       "2023-09-13": 21,
       "2023-09-11": 27,
       "2023-09-07": 105,
@@ -186,7 +185,8 @@
       "2023-05-31": 395,
       "2023-05-30": 17,
       "2023-05-29": 41,
-      "2023-05-24": 201
+      "2023-05-24": 201,
+      "2023-05-23": 17
     }
   },
   {
@@ -265,7 +265,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "unofficial-github-mirror",
     "status": "up",
-    "uptime": "97.55%",
+    "uptime": "97.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
