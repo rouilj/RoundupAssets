@@ -4,19 +4,19 @@
     "url": "https://www.roundup-tracker.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.roundup-tracker.org.ico",
     "slug": "main",
-    "status": "down",
+    "status": "up",
     "uptime": "98.67%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 739,
-    "timeDay": 713,
-    "timeWeek": 754,
-    "timeMonth": 690,
-    "timeYear": 733,
+    "time": 738,
+    "timeDay": 766,
+    "timeWeek": 763,
+    "timeMonth": 694,
+    "timeYear": 734,
     "dailyMinutesDown": {
-      "2023-11-11": 0
+      "2023-11-11": 17
     }
   },
   {
