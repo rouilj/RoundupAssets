@@ -111,10 +111,10 @@
     "url": "https://rouilj.dynamic-dns.net/fossil/roundup_irc_logs/doc/trunk/log/roundup/",
     "icon": "https://icons.duckduckgo.com/ip3/rouilj.dynamic-dns.net.ico",
     "slug": "fossil-based-irc-log",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "97.23%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "97.22%",
     "uptimeMonth": "96.88%",
     "uptimeYear": "98.63%",
     "time": 630,
@@ -196,7 +196,7 @@
       "2023-07-16": 30,
       "2023-07-15": 30,
       "2023-07-13": 108,
-      "2023-07-12": 94
+      "2023-07-12": 77
     }
   },
   {
