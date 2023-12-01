@@ -13,7 +13,7 @@
     "time": 740,
     "timeDay": 578,
     "timeWeek": 770,
-    "timeMonth": 754,
+    "timeMonth": 759,
     "timeYear": 717,
     "dailyMinutesDown": {
       "2023-11-11": 17
@@ -33,7 +33,7 @@
     "time": 1251,
     "timeDay": 1553,
     "timeWeek": 1411,
-    "timeMonth": 1429,
+    "timeMonth": 1440,
     "timeYear": 1271,
     "dailyMinutesDown": {
       "2023-08-09": 39,
@@ -54,7 +54,7 @@
     "time": 1021,
     "timeDay": 1239,
     "timeWeek": 1009,
-    "timeMonth": 1065,
+    "timeMonth": 1072,
     "timeYear": 1010,
     "dailyMinutesDown": {
       "2023-09-10": 47,
@@ -80,7 +80,7 @@
     "time": 52,
     "timeDay": 18,
     "timeWeek": 48,
-    "timeMonth": 47,
+    "timeMonth": 45,
     "timeYear": 54,
     "dailyMinutesDown": {
       "2023-04-25": 18
@@ -100,7 +100,7 @@
     "time": 533,
     "timeDay": 400,
     "timeWeek": 1231,
-    "timeMonth": 628,
+    "timeMonth": 635,
     "timeYear": 533,
     "dailyMinutesDown": {
       "2023-11-11": 17
@@ -113,14 +113,14 @@
     "slug": "fossil-based-irc-log",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "92.80%",
+    "uptimeDay": "95.91%",
     "uptimeWeek": "97.41%",
-    "uptimeMonth": "96.97%",
+    "uptimeMonth": "97.21%",
     "uptimeYear": "98.77%",
     "time": 637,
-    "timeDay": 601,
+    "timeDay": 639,
     "timeWeek": 1073,
-    "timeMonth": 766,
+    "timeMonth": 793,
     "timeYear": 641,
     "dailyMinutesDown": {
       "2023-11-30": 104,
@@ -213,7 +213,7 @@
     "time": 511,
     "timeDay": 621,
     "timeWeek": 504,
-    "timeMonth": 525,
+    "timeMonth": 518,
     "timeYear": 475,
     "dailyMinutesDown": {
       "2023-06-05": 171,
@@ -259,7 +259,7 @@
     "time": 910,
     "timeDay": 352,
     "timeWeek": 553,
-    "timeMonth": 536,
+    "timeMonth": 539,
     "timeYear": 798,
     "dailyMinutesDown": {
       "2023-11-11": 16,
@@ -285,7 +285,7 @@
     "time": 373,
     "timeDay": 479,
     "timeWeek": 362,
-    "timeMonth": 366,
+    "timeMonth": 365,
     "timeYear": 360,
     "dailyMinutesDown": {
       "2023-06-05": 171,
@@ -331,7 +331,7 @@
     "time": 406,
     "timeDay": 442,
     "timeWeek": 307,
-    "timeMonth": 328,
+    "timeMonth": 324,
     "timeYear": 346,
     "dailyMinutesDown": {
       "2023-02-22": 58
@@ -351,7 +351,7 @@
     "time": 228,
     "timeDay": 79,
     "timeWeek": 101,
-    "timeMonth": 149,
+    "timeMonth": 148,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2023-01-31": 59,
@@ -372,7 +372,7 @@
     "time": 456,
     "timeDay": 654,
     "timeWeek": 394,
-    "timeMonth": 406,
+    "timeMonth": 403,
     "timeYear": 467,
     "dailyMinutesDown": {
       "2023-05-26": 36,
