@@ -271,19 +271,19 @@
     "url": "https://travis-ci.com/github/roundup-tracker/roundup",
     "icon": "https://icons.duckduckgo.com/ip3/travis-ci.com.ico",
     "slug": "travis-ci",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 318,
-    "timeDay": 719,
-    "timeWeek": 601,
-    "timeMonth": 471,
+    "timeDay": 557,
+    "timeWeek": 560,
+    "timeMonth": 464,
     "timeYear": 332,
     "dailyMinutesDown": {
-      "2024-08-11": 0
+      "2024-08-11": 6
     }
   },
   {
