@@ -124,7 +124,7 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.03%",
     "time": 674,
-    "timeDay": 731,
+    "timeDay": 266,
     "timeWeek": 541,
     "timeMonth": 565,
     "timeYear": 663,
@@ -271,19 +271,19 @@
     "url": "https://travis-ci.com/github/roundup-tracker/roundup",
     "icon": "https://icons.duckduckgo.com/ip3/travis-ci.com.ico",
     "slug": "travis-ci",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "96.88%",
+    "uptimeDay": "96.84%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
-    "time": 320,
-    "timeDay": 492,
-    "timeWeek": 524,
-    "timeMonth": 465,
-    "timeYear": 333,
+    "time": 326,
+    "timeDay": 999,
+    "timeWeek": 775,
+    "timeMonth": 547,
+    "timeYear": 342,
     "dailyMinutesDown": {
-      "2024-08-12": 45
+      "2024-08-12": 46
     }
   },
   {
