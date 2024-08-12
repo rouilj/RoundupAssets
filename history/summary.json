@@ -273,9 +273,9 @@
     "slug": "travis-ci",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 319,
     "timeDay": 513,
@@ -283,7 +283,7 @@
     "timeMonth": 466,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2024-08-12": 0
+      "2024-08-12": 23
     }
   },
   {
