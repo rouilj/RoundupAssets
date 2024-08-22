@@ -309,17 +309,19 @@
     "url": "https://coveralls.io/github/roundup-tracker/roundup",
     "icon": "https://icons.duckduckgo.com/ip3/coveralls.io.ico",
     "slug": "coveralls",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 416,
-    "timeDay": 741,
-    "timeWeek": 479,
-    "timeMonth": 482,
+    "timeDay": 514,
+    "timeWeek": 455,
+    "timeMonth": 476,
     "timeYear": 433,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-22": 0
+    }
   }
 ]
