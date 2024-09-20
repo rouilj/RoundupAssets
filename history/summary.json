@@ -38,9 +38,9 @@
     "slug": "tracker",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
     "time": 1174,
     "timeDay": 3331,
@@ -48,7 +48,7 @@
     "timeMonth": 1683,
     "timeYear": 1127,
     "dailyMinutesDown": {
-      "2024-09-20": 0,
+      "2024-09-20": 13,
       "2024-09-17": 17,
       "2024-09-06": 30,
       "2024-01-19": 42
