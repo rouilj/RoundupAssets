@@ -40,9 +40,9 @@
     "url": "https://issues.roundup-tracker.org/",
     "icon": "https://icons.duckduckgo.com/ip3/issues.roundup-tracker.org.ico",
     "slug": "tracker",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -52,6 +52,7 @@
     "timeMonth": 962,
     "timeYear": 1082,
     "dailyMinutesDown": {
+      "2024-11-26": 0,
       "2024-09-20": 30,
       "2024-09-17": 17,
       "2024-09-06": 30,
@@ -132,7 +133,7 @@
     "timeDay": 601,
     "timeWeek": 418,
     "timeMonth": 452,
-    "timeYear": 661,
+    "timeYear": 653,
     "dailyMinutesDown": {
       "2024-11-24": 74,
       "2024-11-19": 22,
