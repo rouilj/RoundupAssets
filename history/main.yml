@@ -1,7 +1,7 @@
 url: https://www.roundup-tracker.org
-status: down
-code: 503
-responseTime: 882
-lastUpdated: 2025-01-26T03:00:54.868Z
+status: up
+code: 200
+responseTime: 26380
+lastUpdated: 2025-01-26T03:26:07.968Z
 startTime: 2020-12-07T01:51:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
