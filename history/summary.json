@@ -172,19 +172,19 @@
     "url": "https://github.com/rouilj/test",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub-based-irc-log",
-    "status": "down",
+    "status": "up",
     "uptime": "98.35%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 554,
-    "timeDay": 10644,
-    "timeWeek": 3037,
-    "timeMonth": 1187,
-    "timeYear": 576,
+    "time": 585,
+    "timeDay": 12415,
+    "timeWeek": 4473,
+    "timeMonth": 1635,
+    "timeYear": 618,
     "dailyMinutesDown": {
-      "2025-01-30": 1
+      "2025-01-30": 11
     }
   },
   {
@@ -199,7 +199,7 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.97%",
     "time": 642,
-    "timeDay": 838,
+    "timeDay": 1103,
     "timeWeek": 743,
     "timeMonth": 666,
     "timeYear": 632,
@@ -215,19 +215,19 @@
     "url": "https://github.com/roundup-tracker/roundup",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "unofficial-github-mirror",
-    "status": "down",
+    "status": "up",
     "uptime": "98.37%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 431,
-    "timeDay": 5695,
-    "timeWeek": 1671,
-    "timeMonth": 754,
-    "timeYear": 441,
+    "time": 452,
+    "timeDay": 7404,
+    "timeWeek": 2688,
+    "timeMonth": 1059,
+    "timeYear": 469,
     "dailyMinutesDown": {
-      "2025-01-30": 0
+      "2025-01-30": 11
     }
   },
   {
