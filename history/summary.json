@@ -171,19 +171,19 @@
     "url": "https://github.com/rouilj/test",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub-based-irc-log",
-    "status": "down",
+    "status": "up",
     "uptime": "98.36%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 605,
-    "timeDay": 5465,
-    "timeWeek": 5149,
-    "timeMonth": 1905,
+    "time": 606,
+    "timeDay": 3881,
+    "timeWeek": 4745,
+    "timeMonth": 1871,
     "timeYear": 645,
     "dailyMinutesDown": {
-      "2025-02-03": 0
+      "2025-02-03": 21
     }
   },
   {
