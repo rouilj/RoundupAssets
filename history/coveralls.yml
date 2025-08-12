@@ -1,7 +1,7 @@
 url: https://coveralls.io/github/roundup-tracker/roundup
-status: up
-code: 200
-responseTime: 4657
-lastUpdated: 2025-08-11T23:23:12.020Z
+status: down
+code: 503
+responseTime: 226
+lastUpdated: 2025-08-12T18:15:21.045Z
 startTime: 2022-10-17T02:43:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
