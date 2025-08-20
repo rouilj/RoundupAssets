@@ -246,17 +246,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/sourceforge.net.ico",
     "slug": "mercurial-repo-sourceforge",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.96%",
     "time": 664,
     "timeDay": 1581,
     "timeWeek": 753,
     "timeMonth": 679,
     "timeYear": 679,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-04": 90,
+      "2025-07-03": 62,
+      "2025-01-23": 28,
+      "2025-01-06": 20
+    }
   },
   {
     "name": "Unofficial Github Mirror",
@@ -264,7 +269,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "unofficial-github-mirror",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "98.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -274,7 +279,9 @@
     "timeWeek": 417,
     "timeMonth": 405,
     "timeYear": 479,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-11": 26
+    }
   },
   {
     "name": "Travis CI",
@@ -282,19 +289,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/travis-ci.com.ico",
     "slug": "travis-ci",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 492,
     "timeDay": 449,
     "timeWeek": 605,
     "timeMonth": 520,
     "timeYear": 513,
-    "dailyMinutesDown": {
-      "2025-03-31": 47
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CodeCov",
@@ -302,7 +307,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.codecov.io.ico",
     "slug": "code-cov",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -319,19 +324,19 @@
     "url": "https://coveralls.io/github/roundup-tracker/roundup",
     "icon": "https://icons.duckduckgo.com/ip3/coveralls.io.ico",
     "slug": "coveralls",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "89.24%",
-    "uptimeWeek": "89.42%",
-    "uptimeMonth": "97.57%",
+    "uptimeDay": "89.18%",
+    "uptimeWeek": "89.41%",
+    "uptimeMonth": "97.56%",
     "uptimeYear": "99.06%",
-    "time": 672,
-    "timeDay": 4171,
-    "timeWeek": 2313,
-    "timeMonth": 1742,
-    "timeYear": 765,
+    "time": 690,
+    "timeDay": 4814,
+    "timeWeek": 2620,
+    "timeMonth": 1895,
+    "timeYear": 788,
     "dailyMinutesDown": {
-      "2025-08-20": 155,
+      "2025-08-20": 156,
       "2025-08-19": 20,
       "2025-08-18": 42,
       "2025-08-14": 849,
