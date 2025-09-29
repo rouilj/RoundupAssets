@@ -1,7 +1,7 @@
 url: https://github.com/roundup-tracker/roundup
-status: down
-code: 429
-responseTime: 30
-lastUpdated: 2025-09-29T09:15:20.998Z
+status: up
+code: 200
+responseTime: 586
+lastUpdated: 2025-09-29T09:30:25.936Z
 startTime: 2020-12-07T02:08:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
