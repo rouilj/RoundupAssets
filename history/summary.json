@@ -168,10 +168,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/rouilj.dynamic-dns.net.ico",
     "slug": "fossil-based-irc-log",
     "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "98.93%",
+    "uptime": "99.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.96%",
     "uptimeYear": "98.16%",
     "time": 545,
     "timeDay": 437,
@@ -179,7 +179,6 @@
     "timeMonth": 763,
     "timeYear": 548,
     "dailyMinutesDown": {
-      "2025-11-23": 10,
       "2025-11-16": 20,
       "2025-10-30": 438,
       "2025-10-23": 30,
@@ -232,8 +231,7 @@
       "2024-12-07": 1440,
       "2024-12-06": 1219,
       "2024-12-05": 19,
-      "2024-11-26": 22,
-      "2024-11-24": 74
+      "2024-11-26": 22
     }
   },
   {
