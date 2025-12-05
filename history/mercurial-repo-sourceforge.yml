@@ -1,7 +1,7 @@
 url: https://sourceforge.net/p/roundup/code/ci/tip/tree/CHANGES.txt
-status: down
-code: 500
-responseTime: 23
-lastUpdated: 2025-12-05T08:51:56.759Z
+status: up
+code: 200
+responseTime: 447
+lastUpdated: 2025-12-05T09:15:08.261Z
 startTime: 2020-12-07T01:51:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
