@@ -1,7 +1,7 @@
 url: https://github.com/rouilj/test
-status: up
-code: 200
-responseTime: 742
-lastUpdated: 2026-02-22T23:32:42.482Z
+status: down
+code: 502
+responseTime: 317
+lastUpdated: 2026-02-22T23:55:44.334Z
 startTime: 2020-12-07T02:16:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
