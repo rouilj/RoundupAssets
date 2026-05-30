@@ -8,7 +8,7 @@
     "uptime": "98.79%",
     "uptimeDay": "9.17%",
     "uptimeWeek": "1.56%",
-    "uptimeMonth": "24.29%",
+    "uptimeMonth": "24.28%",
     "uptimeYear": "93.50%",
     "time": 1498,
     "timeDay": 360,
@@ -65,7 +65,7 @@
       "2026-05-29": 1374,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
-      "2026-05-30": 374
+      "2026-05-30": 380
     }
   },
   {
@@ -233,7 +233,7 @@
     "uptime": "99.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.77%",
-    "uptimeMonth": "96.28%",
+    "uptimeMonth": "96.29%",
     "uptimeYear": "97.63%",
     "time": 579,
     "timeDay": 287,
@@ -394,22 +394,22 @@
     "url": "https://travis-ci.com/github/roundup-tracker/roundup",
     "icon": "https://icons.duckduckgo.com/ip3/travis-ci.com.ico",
     "slug": "travis-ci",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.91%",
-    "time": 568,
-    "timeDay": 206,
-    "timeWeek": 350,
+    "time": 569,
+    "timeDay": 292,
+    "timeWeek": 363,
     "timeMonth": 470,
-    "timeYear": 580,
+    "timeYear": 579,
     "dailyMinutesDown": {
       "2025-11-12": 23,
       "2025-11-18": 178,
       "2026-03-31": 284,
-      "2026-05-30": 0
+      "2026-05-30": 6
     }
   },
   {
