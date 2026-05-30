@@ -8,7 +8,7 @@
     "uptime": "98.76%",
     "uptimeDay": "11.25%",
     "uptimeWeek": "2.51%",
-    "uptimeMonth": "22.32%",
+    "uptimeMonth": "22.25%",
     "uptimeYear": "93.33%",
     "time": 1484,
     "timeDay": 324,
@@ -65,7 +65,7 @@
       "2026-05-29": 1374,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
-      "2026-05-30": 1241
+      "2026-05-30": 1268
     }
   },
   {
@@ -342,17 +342,17 @@
     "url": "https://sourceforge.net/p/roundup/code/ci/tip/tree/CHANGES.txt",
     "icon": "https://icons.duckduckgo.com/ip3/sourceforge.net.ico",
     "slug": "mercurial-repo-sourceforge",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.66%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.65%",
     "time": 666,
-    "timeDay": 10078,
-    "timeWeek": 2962,
-    "timeMonth": 1173,
-    "timeYear": 653,
+    "timeDay": 6970,
+    "timeWeek": 2717,
+    "timeMonth": 1160,
+    "timeYear": 654,
     "dailyMinutesDown": {
       "2025-07-04": 90,
       "2025-07-03": 62,
@@ -361,7 +361,7 @@
       "2025-11-09": 675,
       "2025-12-05": 23,
       "2026-04-14": 30,
-      "2026-05-30": 1
+      "2026-05-30": 28
     }
   },
   {
