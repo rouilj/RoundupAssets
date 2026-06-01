@@ -8,7 +8,7 @@
     "uptime": "98.67%",
     "uptimeDay": "2.14%",
     "uptimeWeek": "2.82%",
-    "uptimeMonth": "16.02%",
+    "uptimeMonth": "16.01%",
     "uptimeYear": "92.81%",
     "time": 1478,
     "timeDay": 354,
@@ -66,7 +66,7 @@
       "2026-05-28": 1440,
       "2026-05-27": 1440,
       "2026-05-30": 1278,
-      "2026-06-01": 1280,
+      "2026-06-01": 1286,
       "2026-05-31": 1440
     }
   },
@@ -207,16 +207,16 @@
     "url": "https://sourceforge.net/p/roundup/mailman/roundup-users/",
     "icon": "https://icons.duckduckgo.com/ip3/sourceforge.net.ico",
     "slug": "roundup-users-mailing-list",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.69%",
     "time": 593,
-    "timeDay": 440,
-    "timeWeek": 566,
-    "timeMonth": 481,
+    "timeDay": 420,
+    "timeWeek": 545,
+    "timeMonth": 478,
     "timeYear": 582,
     "dailyMinutesDown": {
       "2025-11-01": 16,
@@ -224,7 +224,7 @@
       "2025-11-09": 675,
       "2025-12-05": 23,
       "2026-04-14": 30,
-      "2026-06-01": 1
+      "2026-06-01": 6
     }
   },
   {
@@ -345,17 +345,17 @@
     "url": "https://sourceforge.net/p/roundup/code/ci/tip/tree/CHANGES.txt",
     "icon": "https://icons.duckduckgo.com/ip3/sourceforge.net.ico",
     "slug": "mercurial-repo-sourceforge",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.65%",
-    "time": 664,
-    "timeDay": 418,
-    "timeWeek": 2508,
-    "timeMonth": 1123,
-    "timeYear": 653,
+    "time": 663,
+    "timeDay": 456,
+    "timeWeek": 2329,
+    "timeMonth": 1106,
+    "timeYear": 652,
     "dailyMinutesDown": {
       "2025-07-04": 90,
       "2025-07-03": 62,
@@ -365,7 +365,7 @@
       "2025-12-05": 23,
       "2026-04-14": 30,
       "2026-05-30": 28,
-      "2026-06-01": 1
+      "2026-06-01": 6
     }
   },
   {
