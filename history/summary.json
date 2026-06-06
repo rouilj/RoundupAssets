@@ -4,17 +4,17 @@
     "url": "https://www.roundup-tracker.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.roundup-tracker.org.ico",
     "slug": "main",
-    "status": "down",
-    "uptime": "98.46%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "2.57%",
-    "uptimeMonth": "2.52%",
-    "uptimeYear": "91.66%",
-    "time": 1479,
-    "timeDay": 0,
-    "timeWeek": 397,
-    "timeMonth": 641,
-    "timeYear": 1500,
+    "status": "up",
+    "uptime": "98.44%",
+    "uptimeDay": "0.08%",
+    "uptimeWeek": "1.31%",
+    "uptimeMonth": "2.45%",
+    "uptimeYear": "91.55%",
+    "time": 1478,
+    "timeDay": 81,
+    "timeWeek": 387,
+    "timeMonth": 632,
+    "timeYear": 1497,
     "dailyMinutesDown": {
       "2025-06-29": 17,
       "2025-07-13": 15,
@@ -72,7 +72,7 @@
       "2026-06-05": 1406,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
-      "2026-06-06": 249
+      "2026-06-06": 815
     }
   },
   {
@@ -409,7 +409,7 @@
     "uptimeYear": "99.91%",
     "time": 570,
     "timeDay": 789,
-    "timeWeek": 454,
+    "timeWeek": 500,
     "timeMonth": 458,
     "timeYear": 579,
     "dailyMinutesDown": {
