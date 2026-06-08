@@ -8,7 +8,7 @@
     "uptime": "98.37%",
     "uptimeDay": "5.50%",
     "uptimeWeek": "2.55%",
-    "uptimeMonth": "1.23%",
+    "uptimeMonth": "1.16%",
     "uptimeYear": "91.09%",
     "time": 1473,
     "timeDay": 286,
@@ -74,7 +74,7 @@
       "2026-06-03": 1440,
       "2026-06-06": 1410,
       "2026-06-07": 1364,
-      "2026-06-08": 451
+      "2026-06-08": 481
     }
   },
   {
@@ -318,16 +318,16 @@
     "url": "https://github.com/rouilj/test",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub-based-irc-log",
-    "status": "down",
+    "status": "up",
     "uptime": "98.74%",
-    "uptimeDay": "97.91%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.94%",
-    "time": 966,
-    "timeDay": 724,
-    "timeWeek": 720,
-    "timeMonth": 720,
+    "uptimeDay": "95.84%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.93%",
+    "time": 967,
+    "timeDay": 799,
+    "timeWeek": 754,
+    "timeMonth": 731,
     "timeYear": 1004,
     "dailyMinutesDown": {
       "2025-06-17": 21,
@@ -344,7 +344,7 @@
       "2026-03-15": 25,
       "2026-03-31": 30,
       "2026-04-18": 46,
-      "2026-06-08": 31
+      "2026-06-08": 60
     }
   },
   {
