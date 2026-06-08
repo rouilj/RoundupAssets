@@ -8,8 +8,8 @@
     "uptime": "98.37%",
     "uptimeDay": "5.50%",
     "uptimeWeek": "2.85%",
-    "uptimeMonth": "1.71%",
-    "uptimeYear": "91.13%",
+    "uptimeMonth": "1.47%",
+    "uptimeYear": "91.11%",
     "time": 1473,
     "timeDay": 286,
     "timeWeek": 380,
@@ -74,7 +74,7 @@
       "2026-06-03": 1440,
       "2026-06-06": 1410,
       "2026-06-07": 1364,
-      "2026-06-08": 240
+      "2026-06-08": 346
     }
   },
   {
@@ -318,17 +318,17 @@
     "url": "https://github.com/rouilj/test",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub-based-irc-log",
-    "status": "up",
+    "status": "down",
     "uptime": "98.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 965,
-    "timeDay": 712,
-    "timeWeek": 716,
-    "timeMonth": 719,
-    "timeYear": 1006,
+    "timeDay": 379,
+    "timeWeek": 632,
+    "timeMonth": 698,
+    "timeYear": 1003,
     "dailyMinutesDown": {
       "2025-06-17": 21,
       "2025-07-11": 26,
@@ -343,7 +343,8 @@
       "2026-03-04": 15,
       "2026-03-15": 25,
       "2026-03-31": 30,
-      "2026-04-18": 46
+      "2026-04-18": 46,
+      "2026-06-08": 1
     }
   },
   {
@@ -378,17 +379,17 @@
     "url": "https://github.com/roundup-tracker/roundup",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "unofficial-github-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "98.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 613,
-    "timeDay": 606,
-    "timeWeek": 900,
-    "timeMonth": 832,
-    "timeYear": 661,
+    "time": 612,
+    "timeDay": 314,
+    "timeWeek": 791,
+    "timeMonth": 807,
+    "timeYear": 659,
     "dailyMinutesDown": {
       "2025-07-11": 26,
       "2025-09-29": 15,
@@ -396,7 +397,8 @@
       "2026-04-18": 45,
       "2026-04-26": 30,
       "2026-04-27": 29,
-      "2026-04-28": 30
+      "2026-04-28": 30,
+      "2026-06-08": 0
     }
   },
   {
