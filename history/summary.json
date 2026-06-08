@@ -5,13 +5,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.roundup-tracker.org.ico",
     "slug": "main",
     "status": "down",
-    "uptime": "98.38%",
-    "uptimeDay": "7.81%",
+    "uptime": "98.37%",
+    "uptimeDay": "5.50%",
     "uptimeWeek": "2.85%",
-    "uptimeMonth": "2.26%",
-    "uptimeYear": "91.18%",
+    "uptimeMonth": "1.71%",
+    "uptimeYear": "91.13%",
     "time": 1473,
-    "timeDay": 353,
+    "timeDay": 286,
     "timeWeek": 380,
     "timeMonth": 561,
     "timeYear": 1488,
@@ -74,7 +74,7 @@
       "2026-06-03": 1440,
       "2026-06-06": 1410,
       "2026-06-07": 1364,
-      "2026-06-08": 0
+      "2026-06-08": 240
     }
   },
   {
