@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.roundup-tracker.org.ico",
     "slug": "main",
     "status": "down",
-    "uptime": "98.28%",
+    "uptime": "98.27%",
     "uptimeDay": "2.62%",
     "uptimeWeek": "2.46%",
     "uptimeMonth": "0.67%",
-    "uptimeYear": "90.57%",
+    "uptimeYear": "90.54%",
     "time": 1433,
     "timeDay": 508,
     "timeWeek": 398,
@@ -76,7 +76,7 @@
       "2026-06-07": 1364,
       "2026-06-08": 1371,
       "2026-06-09": 1409,
-      "2026-06-10": 434
+      "2026-06-10": 584
     }
   },
   {
@@ -132,17 +132,17 @@
     "url": "https://wiki.roundup-tracker.org",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.roundup-tracker.org.ico",
     "slug": "wiki",
-    "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "35.41%",
-    "uptimeWeek": "80.91%",
-    "uptimeMonth": "95.61%",
-    "uptimeYear": "98.97%",
-    "time": 1939,
-    "timeDay": 668,
-    "timeWeek": 826,
-    "timeMonth": 1581,
-    "timeYear": 2147,
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "30.24%",
+    "uptimeWeek": "79.43%",
+    "uptimeMonth": "95.27%",
+    "uptimeYear": "98.94%",
+    "time": 1940,
+    "timeDay": 830,
+    "timeWeek": 834,
+    "timeMonth": 1564,
+    "timeYear": 2144,
     "dailyMinutesDown": {
       "2025-06-12": 19,
       "2025-06-14": 42,
@@ -194,7 +194,7 @@
       "2026-06-08": 670,
       "2026-06-07": 310,
       "2026-06-09": 939,
-      "2026-06-10": 5
+      "2026-06-10": 155
     }
   },
   {
