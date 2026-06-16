@@ -9,7 +9,7 @@
     "uptimeDay": "2.12%",
     "uptimeWeek": "0.68%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "88.98%",
+    "uptimeYear": "88.95%",
     "time": 1431,
     "timeDay": 216,
     "timeWeek": 411,
@@ -82,7 +82,7 @@
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
-      "2026-06-16": 185
+      "2026-06-16": 319
     }
   },
   {
@@ -249,12 +249,12 @@
     "slug": "fossil-based-irc-log",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "74.88%",
+    "uptimeDay": "76.83%",
     "uptimeWeek": "88.45%",
     "uptimeMonth": "96.37%",
     "uptimeYear": "97.43%",
     "time": 676,
-    "timeDay": 2043,
+    "timeDay": 2173,
     "timeWeek": 2148,
     "timeMonth": 1753,
     "timeYear": 701,
