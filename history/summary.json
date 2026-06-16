@@ -9,12 +9,12 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.36%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "88.76%",
+    "uptimeYear": "88.75%",
     "time": 1431,
     "timeDay": 0,
     "timeWeek": 502,
     "timeMonth": 345,
-    "timeYear": 1489,
+    "timeYear": 1490,
     "dailyMinutesDown": {
       "2025-06-29": 17,
       "2025-07-13": 15,
@@ -82,7 +82,7 @@
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
-      "2026-06-16": 1357
+      "2026-06-16": 1415
     }
   },
   {
@@ -141,14 +141,14 @@
     "status": "up",
     "uptime": "99.60%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.64%",
+    "uptimeWeek": "98.22%",
     "uptimeMonth": "95.27%",
     "uptimeYear": "98.96%",
     "time": 1935,
     "timeDay": 899,
     "timeWeek": 853,
     "timeMonth": 1524,
-    "timeYear": 2103,
+    "timeYear": 2098,
     "dailyMinutesDown": {
       "2025-06-19": 21,
       "2025-07-10": 15,
@@ -247,16 +247,16 @@
     "url": "https://rouilj.dynamic-dns.net/fossil/roundup_irc_logs/doc/trunk/log/roundup/",
     "icon": "https://icons.duckduckgo.com/ip3/rouilj.dynamic-dns.net.ico",
     "slug": "fossil-based-irc-log",
-    "status": "down",
-    "uptime": "99.52%",
-    "uptimeDay": "75.27%",
-    "uptimeWeek": "85.78%",
-    "uptimeMonth": "95.76%",
-    "uptimeYear": "97.38%",
+    "status": "up",
+    "uptime": "99.51%",
+    "uptimeDay": "72.14%",
+    "uptimeWeek": "85.21%",
+    "uptimeMonth": "95.62%",
+    "uptimeYear": "97.37%",
     "time": 713,
-    "timeDay": 2533,
-    "timeWeek": 2220,
-    "timeMonth": 1857,
+    "timeDay": 2535,
+    "timeWeek": 2182,
+    "timeMonth": 1838,
     "timeYear": 738,
     "dailyMinutesDown": {
       "2025-06-19": 24,
@@ -321,7 +321,7 @@
       "2026-06-13": 81,
       "2026-06-14": 238,
       "2026-06-15": 285,
-      "2026-06-16": 341
+      "2026-06-16": 399
     }
   },
   {
@@ -339,7 +339,7 @@
     "timeDay": 511,
     "timeWeek": 625,
     "timeMonth": 681,
-    "timeYear": 1005,
+    "timeYear": 1006,
     "dailyMinutesDown": {
       "2025-06-17": 21,
       "2025-07-11": 26,
@@ -373,7 +373,7 @@
     "timeDay": 530,
     "timeWeek": 573,
     "timeMonth": 1618,
-    "timeYear": 696,
+    "timeYear": 697,
     "dailyMinutesDown": {
       "2025-07-04": 90,
       "2025-07-03": 62,
@@ -427,7 +427,7 @@
     "timeDay": 220,
     "timeWeek": 351,
     "timeMonth": 418,
-    "timeYear": 575,
+    "timeYear": 574,
     "dailyMinutesDown": {
       "2025-11-12": 23,
       "2025-11-18": 178,
@@ -469,7 +469,7 @@
     "timeDay": 452,
     "timeWeek": 431,
     "timeMonth": 405,
-    "timeYear": 1230,
+    "timeYear": 1231,
     "dailyMinutesDown": {
       "2025-08-14": 849,
       "2025-08-18": 42,
