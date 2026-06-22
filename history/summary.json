@@ -86,7 +86,7 @@
       "2026-06-17": 1440,
       "2026-06-16": 1440,
       "2026-06-19": 1409,
-      "2026-06-22": 97,
+      "2026-06-22": 125,
       "2026-06-21": 1440,
       "2026-06-20": 1440
     }
@@ -253,17 +253,17 @@
     "url": "https://rouilj.dynamic-dns.net/fossil/roundup_irc_logs/doc/trunk/log/roundup/",
     "icon": "https://icons.duckduckgo.com/ip3/rouilj.dynamic-dns.net.ico",
     "slug": "fossil-based-irc-log",
-    "status": "down",
+    "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "70.69%",
-    "uptimeWeek": "79.25%",
-    "uptimeMonth": "92.42%",
-    "uptimeYear": "97.41%",
+    "uptimeDay": "69.71%",
+    "uptimeWeek": "78.97%",
+    "uptimeMonth": "92.36%",
+    "uptimeYear": "97.40%",
     "time": 994,
-    "timeDay": 5615,
-    "timeWeek": 4052,
-    "timeMonth": 3237,
-    "timeYear": 1089,
+    "timeDay": 5223,
+    "timeWeek": 3998,
+    "timeMonth": 3210,
+    "timeYear": 1088,
     "dailyMinutesDown": {
       "2025-12-25": 19,
       "2025-12-27": 17,
@@ -310,7 +310,7 @@
       "2026-06-19": 371,
       "2026-06-20": 392,
       "2026-06-21": 411,
-      "2026-06-22": 9
+      "2026-06-22": 37
     }
   },
   {
