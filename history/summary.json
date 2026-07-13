@@ -6,9 +6,9 @@
     "slug": "main",
     "status": "down",
     "uptime": "96.74%",
-    "uptimeDay": "67.69%",
-    "uptimeWeek": "10.34%",
-    "uptimeMonth": "4.23%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "15.25%",
+    "uptimeMonth": "5.35%",
     "uptimeYear": "81.78%",
     "time": 1415,
     "timeDay": 0,
@@ -172,7 +172,7 @@
     "timeDay": 1171,
     "timeWeek": 3895,
     "timeMonth": 1910,
-    "timeYear": 2023,
+    "timeYear": 2002,
     "dailyMinutesDown": {
       "2025-07-24": 40,
       "2025-07-27": 22,
@@ -454,17 +454,17 @@
     "url": "https://coveralls.io/github/roundup-tracker/roundup",
     "icon": "https://icons.duckduckgo.com/ip3/coveralls.io.ico",
     "slug": "coveralls",
-    "status": "down",
-    "uptime": "99.36%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.40%",
+    "status": "up",
+    "uptime": "99.33%",
+    "uptimeDay": "65.66%",
+    "uptimeWeek": "95.09%",
+    "uptimeMonth": "98.87%",
+    "uptimeYear": "98.30%",
     "time": 1182,
-    "timeDay": 5355,
-    "timeWeek": 1653,
-    "timeMonth": 1602,
-    "timeYear": 1298,
+    "timeDay": 3790,
+    "timeWeek": 1542,
+    "timeMonth": 1573,
+    "timeYear": 1297,
     "dailyMinutesDown": {
       "2025-08-14": 849,
       "2025-08-18": 42,
@@ -496,7 +496,7 @@
       "2026-05-01": 56,
       "2026-05-10": 64,
       "2026-05-19": 28,
-      "2026-07-13": 1
+      "2026-07-13": 495
     }
   }
 ]
