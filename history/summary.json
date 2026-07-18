@@ -7,8 +7,8 @@
     "status": "down",
     "uptime": "96.75%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "77.77%",
-    "uptimeMonth": "19.83%",
+    "uptimeWeek": "79.09%",
+    "uptimeMonth": "20.13%",
     "uptimeYear": "81.78%",
     "time": 1417,
     "timeDay": 0,
@@ -162,10 +162,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.roundup-tracker.org.ico",
     "slug": "wiki",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.87%",
+    "uptime": "99.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "98.96%",
     "time": 2006,
     "timeDay": 4626,
@@ -217,8 +217,7 @@
       "2026-06-07": 310,
       "2026-06-09": 939,
       "2026-06-10": 155,
-      "2026-06-30": 46,
-      "2026-07-18": 10
+      "2026-06-30": 46
     }
   },
   {
