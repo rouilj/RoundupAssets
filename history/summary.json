@@ -108,7 +108,7 @@
       "2026-07-21": 1415,
       "2026-07-20": 1440,
       "2026-07-19": 464,
-      "2026-08-05": 486,
+      "2026-08-05": 515,
       "2026-08-04": 1440,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
@@ -464,17 +464,17 @@
     "url": "https://coveralls.io/github/roundup-tracker/roundup",
     "icon": "https://icons.duckduckgo.com/ip3/coveralls.io.ico",
     "slug": "coveralls",
-    "status": "down",
+    "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "98.71%",
-    "uptimeYear": "98.29%",
+    "uptimeDay": "97.93%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "98.64%",
+    "uptimeYear": "98.28%",
     "time": 1171,
-    "timeDay": 241,
-    "timeWeek": 360,
-    "timeMonth": 881,
-    "timeYear": 1298,
+    "timeDay": 331,
+    "timeWeek": 376,
+    "timeMonth": 871,
+    "timeYear": 1296,
     "dailyMinutesDown": {
       "2025-08-14": 849,
       "2025-08-18": 42,
@@ -508,7 +508,7 @@
       "2026-05-19": 28,
       "2026-07-13": 495,
       "2026-07-26": 70,
-      "2026-08-05": 1
+      "2026-08-05": 30
     }
   }
 ]
