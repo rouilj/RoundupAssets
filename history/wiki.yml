@@ -1,7 +1,7 @@
 url: https://wiki.roundup-tracker.org
-status: up
-code: 200
-responseTime: 548
-lastUpdated: 2026-08-29T12:50:20.652Z
+status: down
+code: 500
+responseTime: 399
+lastUpdated: 2026-08-29T16:05:22.338Z
 startTime: 2020-12-07T01:51:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
