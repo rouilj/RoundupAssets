@@ -226,17 +226,17 @@
     "url": "https://wiki.roundup-tracker.org",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.roundup-tracker.org.ico",
     "slug": "wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "93.73%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "99.62%",
+    "uptimeDay": "93.50%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "99.08%",
     "time": 1789,
-    "timeDay": 643,
-    "timeWeek": 745,
-    "timeMonth": 930,
-    "timeYear": 1795,
+    "timeDay": 728,
+    "timeWeek": 778,
+    "timeMonth": 937,
+    "timeYear": 1794,
     "dailyMinutesDown": {
       "2025-11-29": 97,
       "2025-12-01": 24,
@@ -281,7 +281,7 @@
       "2026-11-05": 30,
       "2026-11-08": 15,
       "2026-11-11": 30,
-      "2026-11-12": 61
+      "2026-11-12": 64
     }
   },
   {
@@ -547,7 +547,7 @@
       "2026-07-13": 495,
       "2026-07-26": 70,
       "2026-08-05": 30,
-      "2026-11-12": 1142,
+      "2026-11-12": 1145,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
       "2026-11-09": 1440,
