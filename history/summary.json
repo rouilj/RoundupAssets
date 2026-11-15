@@ -179,16 +179,16 @@
     "url": "https://issues.roundup-tracker.org/",
     "icon": "https://icons.duckduckgo.com/ip3/issues.roundup-tracker.org.ico",
     "slug": "tracker",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "97.94%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "99.75%",
-    "time": 1152,
-    "timeDay": 553,
-    "timeWeek": 835,
-    "timeMonth": 1152,
+    "time": 1153,
+    "timeDay": 852,
+    "timeWeek": 904,
+    "timeMonth": 1159,
     "timeYear": 1201,
     "dailyMinutesDown": {
       "2025-11-21": 34,
@@ -219,7 +219,7 @@
       "2026-09-08": 60,
       "2026-10-18": 60,
       "2026-11-02": 90,
-      "2026-11-15": 0
+      "2026-11-15": 30
     }
   },
   {
@@ -548,7 +548,7 @@
       "2026-07-13": 495,
       "2026-07-26": 70,
       "2026-08-05": 30,
-      "2026-11-15": 316,
+      "2026-11-15": 346,
       "2026-11-14": 1440,
       "2026-11-13": 1440,
       "2026-11-12": 1440,
